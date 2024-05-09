@@ -1,6 +1,6 @@
 {
-  "name": "mammoth-color",
-  "version": "1.7.2.1",
+  "name": "mammoth",
+  "version": "1.7.2",
   "author": "Michael Williamson <mike@zwobble.org>",
   "description": "Convert Word documents from docx to simple HTML and Markdown, with color",
   "keywords": [
